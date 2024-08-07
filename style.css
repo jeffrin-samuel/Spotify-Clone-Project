@@ -168,7 +168,7 @@ ii) display: inline (useful for multiple paragraphs to be shown on same horizona
 
 /* Apply box-sizing to all elements */
  *{
-    box-sizing: border-box;      /* IMP  ///////*/
+    box-sizing: border-box;      /* IMP  */
     margin: 0;
     padding: 0;
 }
