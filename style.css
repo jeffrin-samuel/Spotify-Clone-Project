@@ -395,8 +395,8 @@ font-weight: bolder;          /* text color will become bolder  */
 }
 
 
-.playbar{         /* As mentioned earlier, this acts like <footer> (We can hv mentioned position:relative; in parent class - 
-                                                               ".right" on top) */
+.playbar{         /* As mentioned earlier, this acts like <footer> (We hv mentioned position:relative; in parent class - 
+                                                               ".right" on top) */ 
     position: absolute;
     bottom: 0;
     background-color: rgb(139 193 139);
